@@ -15,7 +15,7 @@
 I'm a passionate full-stack developer driven by curiosity and innovation. Always exploring new tech, contributing to open-source, and building impactful projects.
 
 - 🌱 Currently diving into: **Next.js**, **TypeScript**, **AWS**
-- 🔭 Working on: **Cybersecurity & Secure Web Development**
+- 🔭 Working on: **Secure Web Development**
 - 💬 Ask me about: Web Development, GitHub, Clean Code Practices, or anything tech!
 - ⚡ Fun fact: I'm a tech geek who enjoys turning ideas into reality through code. 🧠💡
 
