@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <div>
-    <h1>👋 Hi, I'm Sandeep Reddy</h1>
+    <h1>👋 Hi, I'm  VeldhiSandeep Reddy</h1>
     <p>
       💻 MERN Stack Developer | Enthusiastic about crafting full-stack web applications using MongoDB, Express.js, React, and Node.js. I thrive on solving real-world challenges through clean, scalable code and continuous learning.
     </p>
