@@ -5,7 +5,7 @@
       💻 MERN Stack Developer | Enthusiastic about crafting full-stack web applications using MongoDB, Express.js, React, and Node.js. I thrive on solving real-world challenges through clean, scalable code and continuous learning.
     </p>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=SandeepReddyVeldhi7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
 
 ---
