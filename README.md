@@ -33,19 +33,7 @@ I'm a passionate full-stack developer driven by curiosity and innovation. Always
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
 
 
----
 
-## 📈 GitHub Stats
-
-![Sandeep Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeepReddyVeldhi7&show_icons=true&theme=radical)
-
----
-
-## 🏆 GitHub Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=SandeepReddyVeldhi7&theme=darkhub&no-bg=true)
-
----
 
 ## 🔗 Connect with Me
 
