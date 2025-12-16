@@ -5,7 +5,6 @@
       💻 MERN Stack Developer | Enthusiastic about crafting full-stack web applications using MongoDB, Express.js, React, and Node.js. I thrive on solving real-world challenges through clean, scalable code and continuous learning.
     </p>
   </div>
-
 </div>
 
 ---
@@ -41,4 +40,4 @@ I'm a passionate full-stack developer driven by curiosity and innovation. Always
 
 ---
 
-### ✨ Let’s build something amazing together!
+### ✨ Let’s build something amazing together!!
